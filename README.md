@@ -1,2 +1,2 @@
-# Aula-Tecnologia-e-Programaco-Integrada
-Este repositório sera utilizado para inserir os exercícios referentes as aulas da faculdade da matéria Tecnologia e Programação Integrada
+# Technology and Integrated Programming Class
+This repository will be used to upload exercises related to college classes in the subject Technology and Integrated Programming
